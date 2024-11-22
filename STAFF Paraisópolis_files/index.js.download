@@ -11,6 +11,20 @@
         setInterval(rolarTitulo, 150); // Atualiza a cada 150ms para criar o efeito de rolagem
 
 
+function comandosg() {
+    // Abre a imagem 'geral.png' em uma nova aba
+    window.open('geral.png', '_blank');
+}
+
+function comandosm() {
+    // Abre a imagem 'mod.png' em uma nova aba
+    window.open('mod.png', '_blank');
+}
+
+
+
+
+
  // Obtém o botão e o elemento de áudio
 var playButton = document.getElementById("resultadodenuncia");
 var audio = document.getElementById("audio");
