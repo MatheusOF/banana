@@ -16,8 +16,12 @@
             <button onclick="showDenuncia()">Denúncia</button>
             <button onclick="showCalculadora()">Calculadora</button>
             <button onclick="showRevisao()">Revisão</button>
+			<button onclick="comandosg()">Comandos Geral</button>
+			<button onclick="comandosm()">Comandos MOD+</button>
         </div>
     
+			
+	
         <div id="content">
             <section id="denuncia" class="conteudo" oninput="atualizar()">
                 <h1>RELATÓRIO DE DENÚNCIAS</h1>
@@ -561,7 +565,8 @@
                     <button onclick="copiarDados()">Copiar Dados</button>
                 </div>
             </div></section>
-        
+			
+        <section id="comandos" style="display:none;" oninput="atualizar2()">
     
         <section id="revisao" style="display:none;" oninput="atualizar2()">
     
