@@ -21,6 +21,10 @@ function comandosm() {
     window.open('mod.png', '_blank');
 }
 
+function discord() {
+    // Abre o pdf 'discord.pdf' em uma nova aba
+    window.open('discord.pdf', '_blank');
+}
 
 
 
