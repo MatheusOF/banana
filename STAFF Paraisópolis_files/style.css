@@ -1,6 +1,6 @@
 
 :root {
-    --primary-color: #ff9900;
+    --primary-color: #8a0101;
     --secondary-color: #1c1c1c;
     --background-gradient: linear-gradient(to bottom, #009ebc, #00d5ff);
 }
@@ -13,7 +13,7 @@ body {
     overflow-y: hidden;
     overflow-x: hidden;
     text-align: center;
-    background: url("https://pa1.aminoapps.com/6329/5fb173aa90a082e418d50b46b2c867ffa8fd25b5_hq.gif") no-repeat center; 
+    background: url("https://i.redd.it/lqsxp8yitskb1.gif") no-repeat center; 
     background-size: cover;
     min-height: 100vh;
     margin: 0;
