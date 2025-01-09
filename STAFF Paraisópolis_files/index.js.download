@@ -197,7 +197,7 @@ function prisao(){
     **DISCORD:** <@${disdenunciado}> </BR>
     **ID:** ${cidadedenunciado} </BR>
     **TICKET:**  ${ticket} </BR>
-    **PRISÃO:**  300 Meses </BR>
+    **PRISÃO:**  500 meses </BR>
     **MULTA:** R$ 600.000 </BR>
     **MOTIVO:** ${motivo} </BR>
     **PROVA:** ${provas} </BR>
@@ -590,7 +590,7 @@ function lr() {
     **TICKET DE DENÚNCIA:** </BR>
     **TICKET DE REVISÃO:** </BR>
     **MOTIVO:** </BR>
-    **PUNIÇÃO ATUAL:** 300 Meses de prisão & 600K de multa </BR>` 
+    **PUNIÇÃO ATUAL:** 500 meses de prisão & 600K de multa </BR>` 
    
 }
 
